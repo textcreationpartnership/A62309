@@ -367,7 +367,11 @@ I am merry enough in Company. I am content enough
 when alone. I bear all my ills pretty patiently. And
 now as I humbly conceive, the Porch is big enough
 for the House, and 'tis high time for me to conclude.</p>
-            <figure/>
+            <p>
+               <pb facs="tcp:53808:5"/>
+               <pb facs="tcp:53808:6"/>
+               <figure/>
+            </p>
          </div>
       </front>
       <body>
